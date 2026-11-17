@@ -1,0 +1,5 @@
+battle_cruiser
+battleship
+destroyer
+heavy_cruiser
+light_cruiser
